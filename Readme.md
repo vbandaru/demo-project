@@ -3,7 +3,6 @@
 ## youtube video
 https://www.youtube.com/watch?v=duo8nIU04lY
 
-
 ## Sample bullet list
 
 * One
@@ -17,6 +16,6 @@ https://www.youtube.com/watch?v=duo8nIU04lY
 
 
 #### Markdown reference
-
+refer to markdown syntax on this website
 https://commonmark.org/help/
 
